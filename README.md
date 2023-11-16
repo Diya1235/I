@@ -1,2 +1,2 @@
 # I
-This is my first iPhone website 
+This is my first iPhone website clone 
